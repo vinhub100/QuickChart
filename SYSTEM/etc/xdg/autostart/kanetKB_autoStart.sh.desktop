@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/VitaniveKB/bin/QC.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=kanetKB_autoStart.sh.desktop
+Name=QC
+Comment[en_US]=
+Comment=

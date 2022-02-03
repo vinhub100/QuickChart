@@ -1,0 +1,10 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+        "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node name="/in/kanet/kbdemon/config">
+        <interface name="in.kanet.kbdemon.Service">
+                <method name="callCtrlV">
+                    <arg name="msec" type="i"/>
+                </method>
+<!--                <signal name="crashed"/>-->
+        </interface>
+</node>

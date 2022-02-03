@@ -1,0 +1,40 @@
+{
+    "langoptions": {
+        "Kannada": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Telugu": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Malayalam": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Tamil": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Bengali": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Odia": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Gujarati": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Punjabi": {
+            "icon": "",
+            "keymap": ""
+        },
+        "Devanagari": {
+            "icon": "",
+            "keymap": ""
+        }
+    }
+}

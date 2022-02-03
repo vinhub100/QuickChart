@@ -1,0 +1,9 @@
+[Unit]
+Description=kanetKB service.
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /opt/VitaniveKB/bin/ServiceD.sh
+
+[Install]
+WantedBy=multi-user.target
